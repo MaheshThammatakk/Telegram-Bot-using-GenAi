@@ -40,7 +40,7 @@ pip install -r requirements.txt
 https://docs.aiogram.dev/en/latest/
 
 
-## Telegram SEtup:
+## Telegram Setup:
 
 1. Search for botfather
 2. /newbot
@@ -49,4 +49,12 @@ https://docs.aiogram.dev/en/latest/
 
    * Now click on url to access the bot
    * Make sure you collect the access token
-    
+
+
+### Add in .env
+
+```ini
+OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+TELEGRAM_BOT_TOKEN=xxxxxxxxxx:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+```
+
